@@ -1,0 +1,9 @@
+.gitignore
+config.YAML
+.DS_Store/
+.idea/
+__pycache__
+*.pyc
+*.egg-info
+data/*
+
